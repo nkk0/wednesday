@@ -9,3 +9,5 @@ Instructions:
 2. Type in "nano ~/.bashrc"
 3. Go to the end of the file and add a new line "python3 ~/PATH_TO_FILE/wednesday.py"
 4. Ctrl-O + Enter to save, Ctrl-X to exit nano
+
+If you want it to only print out on Wednesdays, edit the wednesday.py file with a text editor and follow instructions.
