@@ -7,3 +7,4 @@ if datetime.datetime.today().weekday() == 2:
 else:
     print('It is not Wednesday my dude')
 
+# add to bashrc to make it print out
